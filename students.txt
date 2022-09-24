@@ -1,0 +1,2 @@
+Hello Students ! I know learning git , involves a lot of commands to start with, 
+but still we will have fun learning it !
